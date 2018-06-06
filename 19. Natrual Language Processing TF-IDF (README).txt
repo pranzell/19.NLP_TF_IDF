@@ -1,0 +1,7 @@
+19. Natrual Language Processing TF-IDF
+
+This repository dives into the basics of a TF-IDF Module.
+
+It shows us how to compute similarity between two documents. 
+
+Document 1 can be a query and document 2 can be a list of other documents.
